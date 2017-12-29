@@ -9,7 +9,7 @@ After forking this repository and downloading it, you will notice that there are
 
 
 # Dependencies
-The express module is used here to simplify the creation of the web servers and the cors(cross origin resource sharing) module is going to allow us for our dictionary api to be accessible to other domains. The body-parser module allows us to parse the form variables which could be sometimes url-encoded or json-encoded.
+The express module is used here to simplify the creation of the web servers and the cors(cross origin resource sharing) module is going to allow our dictionary api to be accessible to other domains. The body-parser module allows us to parse the form variables which could be sometimes url-encoded or json-encoded.
 
 
 # Author
