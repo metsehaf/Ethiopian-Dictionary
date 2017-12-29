@@ -1,7 +1,7 @@
 {
-  "name": "ski-dictionary",
+  "name": "Ethiopian-dictionary",
   "version": "1.0.0",
-  "description": "A collection of skier terms and definitions",
+  "description": "A collection of Amharic terms and definitions",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,8 +11,8 @@
     "terms",
     "dictionary"
   ],
-  "author": "Alex Banks",
-  "license": "MIT",
+  "author": "Girum Hagos",
+  "license": "Open Source",
   "dependencies": {
     "body-parser": "^1.14.1",
     "cors": "^2.7.1",
