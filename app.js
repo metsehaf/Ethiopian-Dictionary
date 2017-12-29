@@ -4,19 +4,19 @@ var app = express();
 
 var ethiopianTerms = [
 	{
-		term: "selam",
+		term: "ሰላም",
 		defined: "Hi"
 	},
 	{
-		term: "endet neh",
+		term: "እንዴት：ነህ",
 		defined: "How are you?"
 	},
 	{
-		term: "Enquan des aleh",
+		term: "እንኳን：ደስ：አለህ",
 		defined: "Congratulation!"
 	},
 	{
-		term: "Betesebotceh endet natchew",
+		term: "ቤተሰቦችህ：እንዴት：ናቸው？",
 		defined: "How are your parents?"
 	}
 ];
