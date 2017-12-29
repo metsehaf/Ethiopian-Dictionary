@@ -1,5 +1,5 @@
 # Ethiopian Dictionary
-This project was designed to teach some basic Amharic terms to anyone who wishes to learn some Amharic. Users will have the ability to GET, POST and delete terms and definitions. The challenge to anyone who is on this page is to find Amharic words and add to the dictionary application which will require learning some Amharic alphabets. Please send pull requests.
+This project was designed to teach some basic Amharic terms to anyone who wishes to learn some Amharic. Users will have the ability to GET, POST and DELETE terms and definitions. The challenge to anyone who is on this page is to find Amharic words and add to the dictionary application which will require learning some Amharic alphabets. Please send pull requests.
 # Documentation
 Please refer to [node.js site](https://nodejs.org/en/) and
 [npm registry for express](https://www.npmjs.com/package/express) on how to create a webserver to serve the static files hosted here. The [app.js](app.js) is the file in which the **express**, **cors** and **body-parser** module are imported in to. 
